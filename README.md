@@ -1,4 +1,4 @@
-<h1 align="center">RM Veículos Especiais Website</h1> 
+<h1 align="center">Spotfy clone</h1> 
 
 > Este é um site apenas para amostragem de portfolio
 
